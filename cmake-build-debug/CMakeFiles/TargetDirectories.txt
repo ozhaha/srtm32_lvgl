@@ -1,0 +1,3 @@
+H:/Workspace/STM32/f4xx_SPI/cmake-build-debug/CMakeFiles/f4xx_SPI.elf.dir
+H:/Workspace/STM32/f4xx_SPI/cmake-build-debug/CMakeFiles/edit_cache.dir
+H:/Workspace/STM32/f4xx_SPI/cmake-build-debug/CMakeFiles/rebuild_cache.dir

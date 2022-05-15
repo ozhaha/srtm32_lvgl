@@ -1,0 +1,5 @@
+D:\Users\ozcom\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\221.5591.52\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=D:/Users/ozcom/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/221.5591.52/bin/ninja/win/ninja.exe -G Ninja -S H:\Workspace\STM32\f4xx_SPI -B H:\Workspace\STM32\f4xx_SPI\cmake-build-debug
+-- Minimal optimization, debug info included
+-- Configuring done
+-- Generating done
+-- Build files have been written to: H:/Workspace/STM32/f4xx_SPI/cmake-build-debug
