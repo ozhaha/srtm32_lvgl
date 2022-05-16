@@ -65,6 +65,10 @@ void Error_Handler(void);
 #define OLED_DC_GPIO_Port GPIOE
 #define SPI2_CS_Pin GPIO_PIN_9
 #define SPI2_CS_GPIO_Port GPIOE
+#define CAN1_RX_Pin GPIO_PIN_11
+#define CAN1_RX_GPIO_Port GPIOA
+#define CAN1_TX_Pin GPIO_PIN_12
+#define CAN1_TX_GPIO_Port GPIOA
 /* USER CODE BEGIN Private defines */
 
 /* USER CODE END Private defines */
