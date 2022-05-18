@@ -17,19 +17,10 @@
   <component name="ChangeListManager">
     <list default="true" id="60ae1509-0256-4593-9ff6-8df84fa92541" name="Changes" comment="f4xx_SPI porting OK">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/Inc/stm32f4xx_it.h" beforeDir="false" afterPath="$PROJECT_DIR$/Core/Inc/stm32f4xx_it.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/Inc/usart.h" beforeDir="false" afterPath="$PROJECT_DIR$/Core/Inc/usart.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/Src/dma.c" beforeDir="false" afterPath="$PROJECT_DIR$/Core/Src/dma.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/Src/gpio.c" beforeDir="false" afterPath="$PROJECT_DIR$/Core/Src/gpio.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/Src/gui/lv_drv/lv_drv.c" beforeDir="false" afterPath="$PROJECT_DIR$/Core/Src/gui/lv_drv/lv_drv.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/Src/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/Core/Src/main.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Core/Src/stm32f4xx_it.c" beforeDir="false" afterPath="$PROJECT_DIR$/Core/Src/stm32f4xx_it.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Core/Src/usart.c" beforeDir="false" afterPath="$PROJECT_DIR$/Core/Src/usart.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.22.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.22.3/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.22.3/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.22.3/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/f4xx_SPI.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/f4xx_SPI.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/f4xx_SPI.hex" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/f4xx_SPI.hex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/f4xx_SPI.map" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/f4xx_SPI.map" afterDir="false" />
@@ -164,7 +155,7 @@
       <workItem from="1652619312954" duration="11172000" />
       <workItem from="1652709507990" duration="2536000" />
       <workItem from="1652800108519" duration="1363000" />
-      <workItem from="1652880257389" duration="6193000" />
+      <workItem from="1652880257389" duration="6750000" />
     </task>
     <task id="LOCAL-00001" summary="OLED SSD1306  Test">
       <created>1651766978697</created>
