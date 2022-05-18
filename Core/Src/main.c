@@ -105,6 +105,7 @@ int main(void)
   MX_SPI2_Init();
   MX_TIM6_Init();
   MX_CAN1_Init();
+  MX_USART2_UART_Init();
   /* USER CODE BEGIN 2 */
 
 //    W25QXX_Init();
